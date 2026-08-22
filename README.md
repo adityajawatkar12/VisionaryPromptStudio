@@ -23,7 +23,7 @@ Built to help creators, designers, marketers, and AI artists **craft better prom
 ---
 
 ## 🚀 Live Site
-Visit: https://adityajawatkar12.github.io/VisionaryPromptStudio/
+Visit: [https://adityajawatkar12.github.io/VisionaryPromptStudio/](https://addix123.github.io/VisionaryPromptStudio/)
 
 ## Deployment
 Automatically deployed via GitHub Pages & Actions
